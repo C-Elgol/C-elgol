@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 A Passionate Computer Engineer with a strong passion for building **scalable, efficient, and secure applications**.</h1>
+<h1 align="center">👨‍💻 A Passionate Computer Engineer with a strong passion for building <strong>scalable, efficient, and secure applications</strong>.</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square" />
@@ -59,8 +59,8 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 ## 🎯 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=C-Elgol&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Elgol&theme=radical" />
 </p>
 
 ---
