@@ -7,7 +7,7 @@
 </p>
 
 ## 👨‍💻 About Me 
-
+                                                                                                                                                       
 I am a **computer engineering student** and **software developer** with a strong passion for building **scalable, efficient, and secure applications**. I specialize in **backend development**, **database management**, and **system architecture**, ensuring robust and high-performance solutions.  
 
 My expertise spans across **PHP, Django, Python, MySQL, PostgreSQL**, and various modern frameworks. I am also interested in **machine learning** and exploring how AI can enhance software solutions.  
