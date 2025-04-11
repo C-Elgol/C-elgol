@@ -57,11 +57,14 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 
 ---
 
-## 🎯 GitHub Stats
+## 📊 GitHub Stats
+
+
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=C-Elgol&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Elgol&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c-elgol&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=c-elgol&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
