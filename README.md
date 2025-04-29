@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 A Passionate Computer Engineer with a strong passion for building <strong>scalable, efficient, and secure applications</strong>.</h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/-Software%20Developer-brightgreen?style=flat-square" /> 
   <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-orange?style=flat-square" /> 
