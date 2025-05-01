@@ -15,7 +15,7 @@ My expertise spans across **PHP, Django, Python, MySQL, PostgreSQL**, and variou
 I enjoy **solving complex problems**, **contributing to open-source projects**, and **collaborating with teams to develop impactful software solutions**. My focus is on writing **clean, maintainable, and optimized code** while following best practices in software development.  
 
 📌 **Key Interests:**  
-- Frontend development (Tailwind, JavaScript, React.js )
+- Frontend development (Tailwind, JavaScript, React.js ) 
 - Backend Development (PHP, Django, Node.js) 
 - Database Management & Optimization  
 - Cybersecurity & System Architecture  
