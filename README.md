@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-Software%20Developer-brightgreen?style=flat-square" />  
   <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-orange?style=flat-square" />  
 </p>  
-     
+      
 ## 👨‍💻 About Me  
                                                                                                                                                        
 I am a **computer engineering student** and **software developer** with a strong passion for building **scalable, efficient, and secure applications**. I specialize in **backend development**, **database management**, and **system architecture**, ensuring robust and high-performance solutions.  
