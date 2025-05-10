@@ -19,7 +19,7 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 - Backend Development (PHP, Django, Node.js) 
 - Database Management & Optimization  
 - Cybersecurity & System Architecture  
-- Machine Learning & AI Applications  
+- Machine Learning & AI Applications   
 - Open-Source Contributions  
 
 ---
