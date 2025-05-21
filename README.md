@@ -18,7 +18,7 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 - Frontend development (Tailwind, JavaScript, React.js ) 
 - Backend Development (PHP, Django, Node.js)  
 - Database Management & Optimization  
-- Cybersecurity & System Architecture  
+- Cybersecurity & System Architecture   
 - Machine Learning & AI Applications   
 - Open-Source Contributions  
 
