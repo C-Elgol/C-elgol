@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 A Passionate Computer Engineer with a strong passion for building <strong>scalable, efficient, and secure applications</strong>.</h1>
+<h1 align="center">👨‍💻 A Passionate Computer Engineer with a strong passion for building <strong>scalable, efficient, and secure applications</strong>.</h1> 
  
 <p align="center">    
   <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square" />     
