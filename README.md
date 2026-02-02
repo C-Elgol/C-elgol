@@ -2,7 +2,7 @@
   
 <p align="center">        
   <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square" />          
-  <img src="https://img.shields.io/badge/-Software%20Developer-brightgreen?style=flat-square" />              
+  <img src="https://img.shields.io/badge/-Software%20Developer-brightgreen?style=flat-square" />               
   <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-orange?style=flat-square" />      
 </p>              
         
