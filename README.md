@@ -42,8 +42,6 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/></a>
-  <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublimetext" width="40" height="40"/></a>
-  <a href="https://fontawesome.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fontawesome/fontawesome-original.svg" alt="fontawesome" width="40" height="40"/></a>
   <a href="https://material.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialicons" width="40" height="40"/></a>
 </p>
 
