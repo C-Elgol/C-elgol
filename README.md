@@ -161,12 +161,12 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=fotsoeddy&theme=github-dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=C-elgol&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=C-elgol&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fotsoeddy&theme=github-dark&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=C-elgol&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fotsoeddy/fotsoeddy/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/C-elgol/C-elgol/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
