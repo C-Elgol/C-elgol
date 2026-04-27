@@ -170,6 +170,10 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 <p align="center">
   <img src="https://raw.githubusercontent.com/c-elgol/c-elgol/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c-elgol/c-elgol/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/c-elgol/c-elgol/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 ---
