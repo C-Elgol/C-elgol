@@ -158,7 +158,26 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-elgol&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+## 📊 GitHub Insights
 
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=fotsoeddy&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fotsoeddy&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fotsoeddy/fotsoeddy/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 ---
 
 ## ☕ Support Me
