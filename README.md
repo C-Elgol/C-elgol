@@ -171,12 +171,17 @@ I am a **DevOps-oriented Software Engineer** passionate about building and opera
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=c-elgol&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=c-elgol&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=c-elgol&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=c-elgol&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-elgol&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-elgol&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-elgol&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-elgol&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
