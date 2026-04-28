@@ -170,13 +170,15 @@ I am a **DevOps-oriented Software Engineer** passionate about building and opera
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=c-elgol&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=c-elgol&theme=github-dark&hide_border=true&cache_seconds=0" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=c-elgol&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=c-elgol&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-elgol&theme=github-dark&hide_border=true&area=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=c-elgol&theme=github-dark&hide_border=true" />
 </p>
 
 ---
