@@ -1,7 +1,7 @@
 <h1 align="center">🚀 AYEMELE ELGOL</h1>
 
 <h3 align="center">
-DevOps Engineer • Backend Software Engineer • Cloud & Automation Enthusiast 
+DevOps Engineer • Backend Software Engineer • Cloud & Automation Enthusiast  
 </h3>
 
 <p align="center">
