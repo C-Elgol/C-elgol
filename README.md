@@ -2,7 +2,7 @@
 
 <h3 align="center">
 DevOps Engineer • Backend Software Engineer • Cloud & Automation Enthusiast  
-</h3>
+</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=c-elgol&label=Profile%20Views&color=0e75b6&style=flat" />
